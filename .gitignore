@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Python cache-filer
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# VSCode-specifika filer
+.vscode/
